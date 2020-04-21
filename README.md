@@ -50,8 +50,14 @@ TronWallet support for p2p Bitcoin (BTC) uses SegWit technology, which means tra
 ### Find TronWallet
 
 Telegram: https://t.me/TronWalletMe
+
 Twitter: https://twitter.com/TronWalletMe
+
 Facebook: https://www.facebook.com/TronWallet/
+
 Instagram: https://www.instagram.com/tronwalletme/
+
 Medium: https://medium.com/tronwallet
+
 Help & Tutorials: https://support.tronwallet.me/hc/en-us
+
